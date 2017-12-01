@@ -1,0 +1,44 @@
+Part one
+--------
+
+1.
+	Status:
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+	diff:
+diff --git a/project/src/MyNode.java b/project/src/MyNode.java
+index 5eb87ea..a635441 100644
+--- a/project/src/MyNode.java
++++ b/project/src/MyNode.java
+@@ -100,13 +100,13 @@ public class MyNode {
+    * @return The size of the subtree.
+    */
+   public int calcSize() {
+-    int cnt = 1;
++    int cunt = 1;
+     if(left != null) {
+-      cnt += left.calcSize();
++      cunt += left.calcSize();
+     }
+     if(right != null) {
+-      cnt += right.calcSize();
++      cunt += right.calcSize();
+     }
+-    return cnt;
++    return cunt;
+   }
+ } 
+
+// Visar allt vesäntligt som ändrats
+
+	Branch:
+Man fick inte pulla en annan branch förän man hade committat. Undrar varför.
+Jag fick inte pusha på en branch
+Merge branches hade samma sak på en specifik rad men såg inte att den va samma sak eftersom två olika hade pushat samma rad.
+
+
+Part 2
+-----------------------
