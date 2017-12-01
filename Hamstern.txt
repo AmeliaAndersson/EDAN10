@@ -1,4 +1,4 @@
-Jag vet att du vill kolla på den här filen Amelia!
+﻿Jag vet att du vill kolla på den här filen Amelia!
 
 Varför bli en hamster?
 	1. För att bli sötare
@@ -19,7 +19,7 @@ Varför bli en hamster?
          /,    )`  '(    )
         ; `._.'      `--<
        :     \        |  )
-       \      )       ;_/  hjw
+       \      )       ;_/  Rosa
         `._ _/_  ___.'-\\\
            `--\\\
 
