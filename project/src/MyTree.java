@@ -1,5 +1,5 @@
 package tree;
-
+//Denna filen ska mergeas med masteeeeeeeeeeeeer
 import tree.MyNode;
 
 /**
