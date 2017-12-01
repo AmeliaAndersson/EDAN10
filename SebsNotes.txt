@@ -39,6 +39,16 @@ Man fick inte pulla en annan branch förän man hade committat. Undrar varför.
 Jag fick inte pusha på en branch
 Merge branches hade samma sak på en specifik rad men såg inte att den va samma sak eftersom två olika hade pushat samma rad.
 
+  * Release
+To get a release(or put anything into baseline), one makes a release branch or just merges into the master branch.
+
 
 Part 2
 -----------------------
+  *Squash
+Samlar ihop alla commits sen senaste pushen och får de till en commit. 
+
+  *Rebase
+If one would like to merge off master, before i merge the branches. All the cool kids are doing it.
+
+ 
