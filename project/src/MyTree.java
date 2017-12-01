@@ -1,11 +1,11 @@
 package tree;
-
+//Denna filen ska mergeas med masteeeeeeeeeeeeer
 import tree.MyNode;
 
 /**
  * This is a binary search tree. The tree holds integer valued nodes.
  *
- * @author Torbjorn Ekman
+ * @author Amelia Andersson
  * @see MyNode
  */
 public class MyTree {
@@ -78,4 +78,3 @@ public class MyTree {
     return root.calcSize();
   }
 }
-
