@@ -89,8 +89,9 @@ public class MyNode {
    *
    * @param left The new left child of this node.
    */
-  public void setLeftChild(MyNode left) {
+  public Node setLeftChild(MyNode left) {
     this.left = left;
+    return left;
   }
 
   /**
