@@ -10,11 +10,13 @@ import tree.MyNode;
  */
 public class MyTree {
   private MyNode root;
+  private int counter;
 
   /**
    * Class constructor.
    */
   public MyTree() {
+    counter = 1;
   }
 
   /**
