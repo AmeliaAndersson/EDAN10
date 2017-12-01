@@ -31,7 +31,7 @@ public class MyNode {
   }
 
   /**
-   * Sets the vlaue of this node.
+   * Sets the value of this node.
    *
    * @param value The new value of this node.
    */
